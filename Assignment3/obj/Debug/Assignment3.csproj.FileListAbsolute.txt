@@ -1,0 +1,12 @@
+D:\University\8th-Semester\DDR\MID2\DDR_Assignment1_19K0324\Q2\Assignment3\bin\Debug\Assignment3.exe.config
+D:\University\8th-Semester\DDR\MID2\DDR_Assignment1_19K0324\Q2\Assignment3\bin\Debug\Assignment3.exe
+D:\University\8th-Semester\DDR\MID2\DDR_Assignment1_19K0324\Q2\Assignment3\bin\Debug\Assignment3.pdb
+D:\University\8th-Semester\DDR\MID2\DDR_Assignment1_19K0324\Q2\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+D:\University\8th-Semester\DDR\MID2\DDR_Assignment1_19K0324\Q2\Assignment3\obj\Debug\Assignment3.csproj.SuggestedBindingRedirects.cache
+D:\University\8th-Semester\DDR\MID2\DDR_Assignment1_19K0324\Q2\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+D:\University\8th-Semester\DDR\MID2\DDR_Assignment1_19K0324\Q2\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+D:\University\8th-Semester\DDR\MID2\DDR_Assignment1_19K0324\Q2\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+D:\University\8th-Semester\DDR\MID2\DDR_Assignment1_19K0324\Q2\Assignment3\obj\Debug\Assignment3.exe
+D:\University\8th-Semester\DDR\MID2\DDR_Assignment1_19K0324\Q2\Assignment3\obj\Debug\Assignment3.pdb
+D:\University\8th-Semester\DDR\MID2\DDR_Assignment1_19K0324\Q2\Assignment3\obj\Debug\Assignment3.graphicalView.resources
+D:\University\8th-Semester\DDR\MID2\DDR_Assignment1_19K0324\Q2\Assignment3\obj\Debug\Assignment3.textualView.resources
